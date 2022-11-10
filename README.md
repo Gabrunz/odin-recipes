@@ -1,2 +1,2 @@
 # odin-recipes
-A cookbook with link to some recipes built only in HTML
+A cookbook with link to some italian recipes. Build only in HTML
