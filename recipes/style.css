@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+.list {
+    font-size: 25px;
+    font-weight: bold;
+    background-color: rgba(103, 98, 98, 0.5);
+}
+
+.step, p {
+    font-size: 20px;
+}
+
+.step, li, #ingredients {
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
+
+
+
