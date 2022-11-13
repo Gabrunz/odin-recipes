@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+.list {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+img {
+    width: auto;
+    height: auto;
+}
